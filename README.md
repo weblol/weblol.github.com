@@ -1,2 +1,2 @@
 # weblol.github.com
-个人主页
+前端主页
